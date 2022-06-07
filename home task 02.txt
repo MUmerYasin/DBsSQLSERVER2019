@@ -1,0 +1,46 @@
+python SQL Server
+SQLite + sqL alCHEMY
+Oracle
+MonogoDB
+
+pip install psycopg2
+pip install mysql-connector-python
+
+
+>>>db-engines.com
+
+
+Chapter 5 mysql python connector
+
+--------------
+-- free GPU
+cupy.dev
+colab
+kaggel
+floydhub
+
+
+sagemaker studio
+
+
+
+-- Pandas
+
+Data Analysis and Data Manipulation library
+Advanced Data Structure Operations
+-------------------
+
+-- Data Science
+- Data collection & Storage
+>> web Scrapping e.g scrapi
+
+- Data Analysis & Exploration
+>> Pandas
+
+* imp--  EDA - Exploratory Data Analysis  > Data Visualization+ Data Analysis & Exploration
+
+- Data Visualization
+- Experimentation and Prediction
+- Monitoring
+- Deployement
+- monitoring

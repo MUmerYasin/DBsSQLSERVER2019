@@ -1,0 +1,20 @@
+Customers
+Stores
+Staffs
+
+
+Categories
+brands
+Products
+Stock
+
+oders
+order items
+
+
+
+
+
+
+
+

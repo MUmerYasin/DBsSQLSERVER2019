@@ -1,0 +1,21 @@
+select one table > select * from Production.Product
+go
+
+---sqlselect
+
+select ProductID, Name As 'Product Name' from Production.Product 
+go
+
+select ProductID, Name As 'Product Name' from Production.Product where ProductID = 897
+go
+
+select ProductID, Name As 'Product Name' from Production.Product where name = 'Fork End'
+go
+
+
+home task
+
+-------------------
+show information start from f  using like
+
+
